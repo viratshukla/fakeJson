@@ -1,0 +1,57 @@
+{
+  "TRANSACTION_ID": "53fb1680c5b811ea",
+  "STATUS_CODE": "0",
+  "ACCOUNT_SUMMARY_MAP": {
+    "IT_SERVICE": [
+      {
+        "Value": "20",
+        "EnglishName": "Data Center & Cloud",
+        "ArabicName": "مركز البيانات وسحابة الاعمال"
+      },
+      {
+        "Value": "21",
+        "EnglishName": "Managed Services",
+        "ArabicName": "الخدمات المدارة"
+      },
+      {
+        "Value": "22",
+        "EnglishName": "Solutions",
+        "ArabicName": "حلول الأعمال"
+      },
+      {
+        "Value": "23",
+        "EnglishName": "Internet of Things",
+        "ArabicName": "انترنت الاشياء"
+      },
+      {
+        "Value": "24",
+        "EnglishName": "Security",
+        "ArabicName": "الأمن والحماية"
+      }
+    ],
+    "MOBILITY_SERVICE": [
+      {
+        "Value": "10",
+        "EnglishName": "Mobile Voice",
+        "ArabicName": "الخدمات الصوتية"
+      },
+      {
+        "Value": "11",
+        "EnglishName": "Mobile Data",
+        "ArabicName": "خدمات الانترنت"
+      }
+    ],
+    "FIXED_SERVICE": [
+      {
+        "Value": "1",
+        "EnglishName": "Fixed Data",
+        "ArabicName": "خدمات البيانات الثابتة"
+      },
+      {
+        "Value": "2",
+        "EnglishName": "Fixed Voice",
+        "ArabicName": "الهاتف الثابت"
+      }
+    ]
+  }
+}
